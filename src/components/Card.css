@@ -1,0 +1,9 @@
+.dashboard {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2rem;
+}
+
+.mat {
+    border: 4px solid blue;
+}
